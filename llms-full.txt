@@ -1,6 +1,6 @@
 # Awesome MCP Servers
 
-> Full Markdown catalog of 534 hand-curated Model Context Protocol (MCP) servers. A shorter index lives at https://mcphq.org/llms.txt. The same records are published as JSON at https://mcphq.org/api/servers.json.
+> Full Markdown catalog of 535 hand-curated Model Context Protocol (MCP) servers. A shorter index lives at https://mcphq.org/llms.txt. The same records are published as JSON at https://mcphq.org/api/servers.json.
 
 This file lists every server in the catalog. Descriptions are the catalog's one-sentence summaries, not the upstream README. `Official: yes` means the MCP project or the named provider backs the server. Remote endpoints are included only when the catalog lists an SSE or streamable HTTP URL.
 
@@ -3163,6 +3163,18 @@ Temporal knowledge graphs for agent memory and context building.
 - Official: yes
 - Tags: knowledge-graph, memory, temporal
 - Category: AI, Agents, and Memory
+
+### House AI
+
+AI interior and exterior design: redesign a room, house exterior or yard from a photo in 100+ styles, preview wall paint and flooring, and find real furniture and decor to match. OAuth sign-in with a House AI account.
+
+- URL: https://www.houseaiapp.com/connector
+- Language: Python
+- Provider: House AI
+- Official: yes
+- Tags: interior-design, image-generation, home, remote, oauth
+- Category: AI, Agents, and Memory
+- Streamable HTTP endpoint: https://mcp.houseaiapp.com/mcp
 
 ### Hugging Face MCP Server
 

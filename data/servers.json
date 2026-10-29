@@ -5848,6 +5848,25 @@
     "official": false
   },
   {
+    "name": "House AI",
+    "url": "https://www.houseaiapp.com/connector",
+    "description": "AI interior and exterior design: redesign a room, house exterior or yard from a photo in 100+ styles, preview wall paint and flooring, and find real furniture and decor to match. OAuth sign-in with a House AI account.",
+    "category": "ai-agents-and-memory",
+    "language": "Python",
+    "provider": "House AI",
+    "tags": [
+      "interior-design",
+      "image-generation",
+      "home",
+      "remote",
+      "oauth"
+    ],
+    "official": true,
+    "endpoints": {
+      "streamableHttp": "https://mcp.houseaiapp.com/mcp"
+    }
+  },
+  {
     "name": "OutreachGenie",
     "url": "https://github.com/Outreachgenie/outreachgenie-linkedin-mcp",
     "description": "Manage saved prospects, lists, outreach flows and campaign drafts in an OutreachGenie workspace over hosted MCP; requires an account and OAuth or a bearer API key, with broader permissions for API keys.",
