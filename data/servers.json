@@ -5111,6 +5111,25 @@
     }
   },
   {
+    "name": "Fictura",
+    "url": "https://docs.fictura.co/connections/outgoing/mcp-server",
+    "description": "Hosted MCP server for Fictura: paywalls, onboarding, subscription analytics, A/B experiments, attribution and errors for Expo and React Native apps, with draft-only editing.",
+    "category": "data-analytics-and-bi",
+    "language": "TypeScript",
+    "provider": "Fictura",
+    "tags": [
+      "mobile-apps",
+      "subscriptions",
+      "paywalls",
+      "analytics",
+      "attribution"
+    ],
+    "official": true,
+    "endpoints": {
+      "streamableHttp": "https://mcp.fictura.co/mcp"
+    }
+  },
+  {
     "name": "AlertForge",
     "url": "https://alertforge.ai/docs/agents",
     "description": "Plan, create, and export stream overlays, AI alerts, and transparent videos through a hosted service requiring an active paid subscription and generation credits.",
